@@ -13,7 +13,7 @@
     sobre o conteúdo e práticas desses sites e não podemos aceitar responsabilidade por suas respectivas políticas de privacidade</a>. </p>
 <p>Você é livre para recusar a nossa solicitação de informações pessoais, entendendo que talvez não possamos fornecer
     alguns dos serviços desejados.</p>
-<p>A confirmação dos termos na primeira vez que você acessa nosso aplicativo será considerado como aceitação de nossas práticas em torno de privacidade e
+<p>O uso frequente do aplicativo será considerado como aceitação de nossas práticas em torno de privacidade e
     informações pessoais. Se você tiver alguma dúvida sobre como lidamos com dados do usuário e informações pessoais,
     entre em contato conosco.</p>
 <h3>Compromisso do Usuário</h3>

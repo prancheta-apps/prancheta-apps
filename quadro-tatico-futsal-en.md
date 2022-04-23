@@ -13,7 +13,7 @@
     about the content and practices of these sites and cannot accept responsibility for their respective privacy policies</a>. </p>
 <p>You are free to decline our request for personal information, with the understanding that we may not be able to provide
     some of the desired services.</p>
-<p>Confirmation of the terms the first time you access our app will be considered acceptance of our practices around privacy and
+<p>Frequent use of the application will be considered acceptance of our practices around privacy and
     personal information. If you have any questions about how we handle user data and personal information,
     contact us.</p>
 <h3>User Commitment</h3>

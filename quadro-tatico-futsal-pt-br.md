@@ -1,4 +1,4 @@
-<h2>Política Privacidade</h2>
+<h2>Política de Privacidade</h2>
 <p>A sua privacidade é importante para nós. É política do Quadro Tático de Futsal respeitar a sua privacidade em relação 
   a qualquer informação sua que possamos coletar.</p>
 <p>Solicitamos informações pessoais apenas quando realmente precisamos delas para lhe fornecer um serviço. Fazemo-lo por

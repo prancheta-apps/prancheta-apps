@@ -1,5 +1,6 @@
+``` Los términos de uso y la política de privacidad a continuación también se aplican a Tablero Tactico de Futsal PRO. ```
 <h2>Política de Privacidad</h2>
-<p>Su privacidad es importante para nosotros. Es política de la Junta Táctica de Futsal respetar su privacidad en relación con
+<p>Su privacidad es importante para nosotros. Es política de  Tablero Tactico de Futsal respetar su privacidad en relación con
   a cualquier información que podamos recopilar de usted.</p>
 <p>Solo solicitamos información personal cuando realmente la necesitamos para brindarle un servicio. lo hacemos por
     medios justos y lícitos, con su conocimiento y consentimiento. También te decimos por qué estamos recolectando y cómo
@@ -23,14 +24,14 @@
     <li>A) No realizar actividades ilegales o contrarias a la buena fe y al orden público;</li>
     <li>B) No difundir propaganda o contenidos de carácter racista, xenófobo, cualquier tipo de pornografía.
         ilegal, en apoyo del terrorismo o en contra de los derechos humanos;</li>
-    <li>C) No causar daños a los sistemas físicos (hardware) y lógicos (software) de la Junta Táctica de Futsal, sus
+    <li>C) No causar daños a los sistemas físicos (hardware) y lógicos (software) de  Tablero Tactico de Futsal, sus
         proveedores o de terceros, introducir o difundir virus informáticos o cualquier otro
         hardware o software capaz de causar los daños mencionados.</li>
 </ul>
 <p>Esta política entra en vigencia a partir de <strong>abril</strong>/<strong>2022</strong>.</p>
 
 <h2>1. Condiciones</h2>
-<p>Al acceder a la aplicación Futsal Tactical Board, acepta cumplir con estos términos de servicio, todas las leyes, regulaciones
+<p>Al acceder a la aplicación  Tablero Tactico de Futsal, acepta cumplir con estos términos de servicio, todas las leyes, regulaciones
   leyes aplicables y acepta que usted es responsable de cumplir con todas las leyes locales aplicables. Si
     no está de acuerdo con ninguno de estos términos, tiene prohibido usar o acceder a esta aplicación. Los materiales que contiene
   están protegidos por las leyes de derechos de autor y marcas registradas aplicables.</p>
@@ -52,34 +53,34 @@
     licencia, debe eliminar todos los materiales descargados que tenga en su poder, ya sea en formato electrónico o impreso.</p>
 <h2>3. Descargo de responsabilidad</h2>
 <ol>
-    <li>Los materiales de la aplicación Futsal Tactical Board se proporcionan "tal cual". Junta Táctica Futsal no ofrece
+    <li>Los materiales de la aplicación  Tablero Tactico de Futsal se proporcionan "tal cual". Junta Táctica Futsal no ofrece
         garantías, expresas o implícitas, y por la presente renuncia y renuncia a todas las demás garantías, incluidas, sin
         limitación, garantías implícitas o condiciones de comerciabilidad, idoneidad para un propósito particular o no infracción
         propiedad intelectual u otra infracción de derechos. </li>
-    <li>Además, la Junta Táctica de Futsal no garantiza ni hace ninguna representación con respecto a la precisión,
+    <li>Además,  Tablero Tactico de Futsal no garantiza ni hace ninguna representación con respecto a la precisión,
         resultados probables o la confiabilidad del uso de sus materiales o relacionados con
         estos materiales.</li>
 </ol>
 <h2>4. Limitaciones</h2>
-<p>En ningún caso, Futsal Tactical Board o sus proveedores serán responsables de los daños (incluidos,
+<p>En ningún caso,  Tablero Tactico de Futsal o sus proveedores serán responsables de los daños (incluidos,
     sin limitación, daños por pérdida de datos o ganancias o debido a la interrupción del negocio) derivados del uso o
-    incapacidad para usar materiales en Futsal Tactical Board, incluso si Futsal Tactical Board o un representante
-    Futsal Tactical Board ha sido notificado verbalmente o por escrito de la posibilidad de tales daños.
+    incapacidad para usar materiales en  Tablero Tactico de Futsal, incluso si  Tablero Tactico de Futsal o un representante
+     Tablero Tactico de Futsal ha sido notificado verbalmente o por escrito de la posibilidad de tales daños.
     Dado que algunas jurisdicciones no permiten limitaciones a las garantías implícitas o limitaciones a la responsabilidad por
     daños consecuentes o incidentales, es posible que estas limitaciones no se apliquen a usted.</p>
 <h2>5. Precisión de materiales</h2>
 <p>Los materiales que aparecen en el sitio web de Quadro Tático de Futsal pueden incluir errores técnicos, tipográficos o fotográficos.
-    Futsal Tactical Board no garantiza que ningún material en su aplicación sea preciso, completo o actual. tablero táctico
+     Tablero Tactico de Futsal no garantiza que ningún material en su aplicación sea preciso, completo o actual. tablero táctico
     de Futsal puede hacer cambios a los materiales contenidos en cualquier momento sin previo aviso. Sin embargo,
     Quadro Tactical Futsal no se compromete a actualizar los materiales.</p>
 <h2>6. Enlaces</h2>
-<p>Futsal Tactical Board no ha analizado todos los sitios web vinculados a su aplicación y no es responsable del contenido de los mismos.
+<p> Tablero Tactico de Futsal no ha analizado todos los sitios web vinculados a su aplicación y no es responsable del contenido de los mismos.
     ningún sitio enlazado. El uso de
     cualquier sitio vinculado es bajo el propio riesgo del usuario.</p>
 </p>
 <h3>Modificaciones</h3>
-<p>Futsal Tactical Board puede revisar estos términos de servicio en cualquier momento sin previo aviso. cuando usas
+<p> Tablero Tactico de Futsal puede revisar estos términos de servicio en cualquier momento sin previo aviso. cuando usas
     esta aplicación, usted acepta estar sujeto a la versión actual de estos términos de servicio.</p>
 <h3>Legislación aplicable</h3>
-<p>Estos términos y condiciones se rigen e interpretan de acuerdo con las leyes de la Junta Táctica de Futsal y usted
+<p>Estos términos y condiciones se rigen e interpretan de acuerdo con las leyes de  Tablero Tactico de Futsal y usted
     se somete irrevocablemente a la jurisdicción exclusiva de los tribunales de ese estado o localidad.</p>

@@ -1,3 +1,4 @@
+``` The terms of use and privacy policy below also apply to the PRO Futsal Tactical Board. ```
 <h2>Privacy Policy</h2>
 <p>Your privacy is important to us. It is the Futsal Tactical Board's policy to respect your privacy in relation to
   to any information we may collect from you.</p>
@@ -42,7 +43,7 @@
     <li>modify or copy the materials; </li>
     <li>use the materials for any commercial purpose or for public display (commercial or non-commercial);
     </li>
-    <li>attempt to decompile or reverse engineer any software contained on the Quadro Tactical Futsal website;
+    <li>attempt to decompile or reverse engineer any software contained on the Futsal Tactical Board website;
     </li>
     <li>remove any copyright or other proprietary notations from the materials; or </li>
     <li>transfer the materials to someone else or 'mirror' the materials on any other server.</li>
@@ -68,10 +69,10 @@
     As some jurisdictions do not allow limitations on implied warranties, or limitations on liability for
     consequential or incidental damages, these limitations may not apply to you.</p>
 <h2>5. Precision of materials</h2>
-<p>The materials appearing on the Quadro Tático de Futsal website could include technical, typographical, or photographic errors.
+<p>The materials appearing on the Futsal Tactical Board website could include technical, typographical, or photographic errors.
     Futsal Tactical Board does not warrant that any material in its application is accurate, complete or current. Tactical Board
     de Futsal may make changes to the materials contained at any time without notice. Nonetheless,
-    Quadro Tactical Futsal does not make any commitment to update the materials.</p>
+    Futsal Tactical Board does not make any commitment to update the materials.</p>
 <h2>6. Links</h2>
 <p>Futsal Tactical Board has not analyzed all websites linked to its application and is not responsible for the content of
     no linked site. The use of

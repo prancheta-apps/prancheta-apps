@@ -1,4 +1,3 @@
-``` The terms of use and privacy policy below also apply to the Futsal Tactical Board PRO. ```
 <h2>Privacy Policy</h2>
 <p>Your privacy is important to us. It is the Futsal Tactical Board's policy to respect your privacy in relation to
   to any information we may collect from you.</p>

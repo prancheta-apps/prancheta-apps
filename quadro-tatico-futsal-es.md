@@ -1,4 +1,3 @@
-``` Los términos de uso y la política de privacidad a continuación también se aplican a Tablero Tactico de Futsal PRO. ```
 <h2>Política de Privacidad</h2>
 <p>Su privacidad es importante para nosotros. Es política de  Tablero Tactico de Futsal respetar su privacidad en relación con
   a cualquier información que podamos recopilar de usted.</p>

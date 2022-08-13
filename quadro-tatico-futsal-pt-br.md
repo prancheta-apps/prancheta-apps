@@ -1,4 +1,3 @@
-``` Os termos de uso e política de privacidade abaixo também se aplicam ao Quadro Tático de Futsal PRO. ```
 <h2>Política de Privacidade</h2>
 <p>A sua privacidade é importante para nós. É política do Quadro Tático de Futsal respeitar a sua privacidade em relação 
   a qualquer informação sua que possamos coletar.</p>

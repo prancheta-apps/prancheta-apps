@@ -1,4 +1,4 @@
-# Aplicativo [Quadro Tático de Futsal PRO](com.prancheta.quadrotaticodefutsalpro)
+# Aplicativo [Quadro Tático de Futsal PRO](https://play.google.com/store/apps/details?id=com.prancheta.quadrotaticodefutsalpro)
 
 <h2>Política de Privacidade</h2>
 <p>A sua privacidade é importante para nós. É política do "Quadro Tático de Futsal PRO" respeitar a sua privacidade em relação 

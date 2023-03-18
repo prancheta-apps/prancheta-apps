@@ -1,4 +1,4 @@
-# Aplicativo [Tabela de Futebol](https://play.google.com/store/apps/details?id=com.prancheta.tabelafutebol)
+# Aplicativo [Tabela de Futebol](https://play.google.com/store/apps/details?id=com.prancheta.tabeladefutebol)
 
 <h2>Política de Privacidade</h2>
 <p>A sua privacidade é importante para nós. É política do "Tabela de Futebol" respeitar a sua privacidade em relação 
@@ -29,7 +29,7 @@
         fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas de
         hardware ou software que sejam capazes de causar danos anteriormente mencionados.</li>
 </ul>
-<p>Esta política é efetiva a partir de <strong>Agosto</strong>/<strong>2022</strong>.</p>
+<p>Esta política é efetiva a partir de <strong>Março</strong>/<strong>2023</strong>.</p>
 
 <h2>1. Termos</h2>
 <p>Ao acessar ao aplicativo "Tabela de Futebol", o usuário concorda em cumprir estes termos de serviço, todas as leis, regulamentos 
@@ -37,20 +37,13 @@
     você não concordar com algum desses termos, está proibido de usar ou acessar este aplicativo. Os materiais contidos nele
   são protegidos pelas leis de direitos autorais e marcas comerciais aplicáveis.</p>
 <h2>2. Uso de Licença</h2>
-<p>É concedida permissão para baixar temporariamente uma cópia dos materiais (informações ou software) no "Tabela de Futebol", apenas para visualização transitória pessoal e não comercial. Esta é a concessão de uma licença,
-    não uma transferência de título e, sob esta licença, você não pode: </p>
+<p>Sob esta licença, você não pode: </p>
 <ol>
-    <li>modificar ou copiar os materiais;  </li>
-    <li>usar os materiais para qualquer finalidade comercial ou para exibição pública (comercial ou não comercial); 
-    </li>
     <li>tentar descompilar ou fazer engenharia reversa de qualquer software contido no aplicativo "Tabela de Futebol"; 
     </li>
-    <li>remover quaisquer direitos autorais ou outras notações de propriedade dos materiais; ou </li>
-    <li>transferir os materiais para outra pessoa ou espelhar os materiais em qualquer outro sistema.</li>
 </ol>
 <p>Esta licença será automaticamente rescindida se você violar alguma dessas restrições e poderá ser rescindida pelo
-    "Tabela de Futebol" a qualquer momento. Ao encerrar a visualização desses materiais ou após o término desta
-    licença, você deve apagar todos os materiais baixados em sua posse, seja em formato eletrônico ou impresso.</p>
+    "Tabela de Futebol" a qualquer momento.</p>
 <h2>3. Isenção de responsabilidade</h2>
 <ol>
     <li>Os materiais no aplicativo "Tabela de Futebol" são fornecidos 'como estão'. O "Tabela de Futebol" não oferece
